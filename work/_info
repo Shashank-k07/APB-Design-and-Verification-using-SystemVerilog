@@ -1,0 +1,144 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/System verilog/ram
+vAPB
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ck_RP^E1=YzD9M]4IgNYJ3
+I1@nFBzQOVh8L`S8jEKSL>0
+Z2 !s105 apb1_sv_unit
+S1
+Z3 dC:/APB
+Z4 w1754897655
+Z5 8apb1.sv
+Z6 Fapb1.sv
+L0 1
+Z7 OE;L;10.4e;61
+Z8 !s108 1754897680.000000
+Z9 !s107 apb1.sv|
+Z10 !s90 -reportprogress|300|apb1.sv|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@p@b
+vapb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 THQh7>6OK52edBbADg04V3
+IDb]nOWP7S7[SKB:?I1Pfm1
+!s105 apb_dut_sv_unit
+S1
+dC:/Projects/APB
+w1760695523
+8apb_dut.sv
+Fapb_dut.sv
+L0 1
+R7
+!s108 1760695529.000000
+!s107 apb_dut.sv|
+!s90 -reportprogress|300|apb_dut.sv|
+!i113 0
+R11
+Xapb1_sv_unit
+R0
+VWc<caZR<gXGiX8gZO`Z[12
+r1
+!s85 0
+31
+!i10b 1
+!s100 5l[A34gd[AA:IB@kPb?J@3
+IWc<caZR<gXGiX8gZO`Z[12
+!i103 1
+S1
+R3
+R4
+R5
+R6
+L0 51
+R7
+R8
+R9
+R10
+!i113 0
+R11
+Yapb_inf
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ncJcZOhe[9T55U[Y8L[Y31
+IJYcj?0;SXkS<]GEQGiC9f1
+R2
+S1
+R3
+R4
+R5
+R6
+L0 45
+R7
+R8
+R9
+R10
+!i113 0
+R11
+Xapb_sv_unit
+R0
+Ve>l7U[coKjVJYLW82m64=1
+r1
+!s85 0
+31
+!i10b 1
+!s100 zg4gN?jEPXEX_jWSUFk[N3
+Ie>l7U[coKjVJYLW82m64=1
+!i103 1
+S1
+R3
+w1754755852
+8apb.sv
+Fapb.sv
+L0 380
+R7
+!s108 1754755855.000000
+!s107 apb.sv|
+!s90 -reportprogress|300|apb.sv|
+!i113 0
+R11
+vtest
+R0
+DXx4 work 12 apb1_sv_unit 0 22 Wc<caZR<gXGiX8gZO`Z[12
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 3Yf1bLZ:GlEPag:SJ<kEj0
+IkQZd4K<?b8IXdJBeJVN^I0
+R2
+S1
+R3
+R4
+R5
+R6
+L0 104
+R7
+R8
+R9
+R10
+!i113 0
+R11
